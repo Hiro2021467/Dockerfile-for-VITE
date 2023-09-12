@@ -19,8 +19,5 @@ CMD npm run dev -- --host
 # # アプリケーションをビルド
 # RUN npm run build
 
-# # ポート番号を公開
-# EXPOSE 3000
-
 # # コンテナを実行
 # CMD ["npm", "start"]
